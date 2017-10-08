@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="card_margin">5dp</dimen>
+    <dimen name="card_lab_radius">4dp</dimen>
+    <dimen name="card_height">160dp</dimen>
+    <dimen name="folder_title_padding">10dp</dimen>
+    <dimen name="album_title">15dp</dimen>
+
+
+</resources>

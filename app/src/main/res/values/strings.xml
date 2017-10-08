@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">University</string>
+    <string name="hello_world_button">Нажми меня</string>
+    <string name="text_hello_world">Привет мир!!</string>
+    <string name="fill_data">Введите данные</string>
+    <string name="first_name">Введите имя</string>
+    <string name="last_name">Введите фамилию</string>
+    <string name="surname">Введите отчество</string>
+    <string name="group_number">Введите номер группы</string>
+    <string name="faculty">Введите факультет</string>
+    <string name="save_btn">Сохранить</string>
+    <string name="change_color">Изменить цвет</string>
+    <string name="info">Иформация</string>
+    <string name="synchronously">Синхронно</string>
+    <string name="asynchronously">Асинхронно</string>
+    <string name="anim_dur">Продолжительность</string>
+    <string name="hello_world">Hello world</string>
+    <string name="addStudent">Добавить студента</string>
+    <string name="check_access">Проверить</string>
+    <string name="no_access">Нет права доступа</string>
+    <string name="has_access">Есть права доступа</string>
+    <string name="action_back">back</string>
+    <string name="action_forward">forward</string>
+    <string name="enter_adress">Введите адресс</string>
+</resources>
